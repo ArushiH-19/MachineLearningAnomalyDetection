@@ -1,0 +1,1 @@
+For the anomaly detection project based on Olist, three kinds of anomalies domains were targeted namely delivery, payment, and reviews. This folder contains the code for ML algorithms applied to detect the anomalies.
